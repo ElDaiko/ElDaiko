@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **JS, React, Atlas DB**
 
 - 📫 How to reach me **mirole16@gmail.com**
+
 <p align="left">
 </p>
 
@@ -16,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eldaiko&show_icons=true&locale=en&layout=compact" alt="eldaiko" /></p>
 
-<p>&nbsp;<img align="center margin-top: 17px" src="https://github-readme-stats.vercel.app/api?username=eldaiko&show_icons=true&locale=en" alt="eldaiko" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eldaiko&show_icons=true&locale=en" alt="eldaiko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eldaiko&" alt="eldaiko" /></p>
