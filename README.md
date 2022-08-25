@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldaiko&label=Profile%20views&color=0e75b6&style=flat" alt="eldaiko" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldaiko" alt="eldaiko" /></a> </p>
-
 - 🔭 I’m currently working on **personal projects**
 
 - 🌱 I’m currently learning **JS, React, Atlas DB**
