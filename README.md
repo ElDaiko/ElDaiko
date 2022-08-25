@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **JS, React, Atlas DB**
 
 - 📫 How to reach me **mirole16@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
