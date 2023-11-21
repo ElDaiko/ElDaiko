@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **JS, React, Atlas DB and Node**
+- 🌱 I’m currently learning **Node**
 
 - 📫 How to reach me **mirole16@gmail.com**
 
