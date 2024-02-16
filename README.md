@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤝, I'm Miguel Roldán Echeverri</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldaiko&label=Profile%20views&color=bd59f3&style=flat" alt="eldaiko" /> </p>
 
