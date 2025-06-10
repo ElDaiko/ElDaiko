@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldaiko&label=Profile%20views&color=bd59f3&style=flat" alt="eldaiko" /> </p>
 
-- 🔭 I’m currently working on [pragma-planning-poker](https://github.com/ElDaiko/pragma-planning-poker)
+- 🔭 I’m currently working on POCs
 
 - 🌱 I’m currently learning Jest and Node **Udemy**
 
